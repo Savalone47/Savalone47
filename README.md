@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am JOSUE YENGA (savalone47) from DRC Lubumbashi, Software Developer, DevOps & cybersecurity evangelist, passionate about Linux, Open Source and always learning new things, ready for discussions and making new projects, love challenges and not afraid to reveal new challenges. Book write blogs on Dev.to and Medium 
+
 <!--
 **Savalone47/Savalone47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
