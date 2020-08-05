@@ -1,4 +1,6 @@
-<img src="user.gif"/>
+<p align="center">
+	<img src="user.gif"/>
+</p>
 
 ### Hi there 👋
 
