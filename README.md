@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="user.gif"/>
+	<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif"/>
 </p>
 
 ### Hi there 👋
