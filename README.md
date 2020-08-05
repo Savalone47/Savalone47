@@ -1,4 +1,4 @@
-<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/03/lightbulb-dark-1200.gif"/>
+<img src="user.gif"/>
 
 ### Hi there 👋
 
