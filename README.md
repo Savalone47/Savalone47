@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Josue Yenga (savalone47) from DRC Lubumbashi, Software Developer, DevOps & CyberSecurity Evangelist, passionate about Nodejs and Linux, Open Source and  always learning new things, ready for discussions and making new projects, love challenges and not afraid to reveal new challenges. Book write blogs on Dev.to and Medium.
+I am Josue Yenga  from DRC Lubumbashi, Software Developer, CyberSecurity Evangelist, passionate about Nodejs and Linux, Open Source and  always learning new things, ready for discussions and making new projects, love challenges and not afraid to reveal new challenges. Book write blogs on Dev.to and Medium.
 
 ### Programming Languages 
 [<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="20" height="20"/>](https://www.typescriptlang.org/docs/home)
