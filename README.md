@@ -1,41 +1,26 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif"/>
+	<img src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif"/ width=300 height =300>
 </p>
 
 ### Hi there 👋
 
-I am Josue Yenga  from DRC Lubumbashi, Software Developer, CyberSecurity Evangelist, passionate about Nodejs and Linux, Open Source and  always learning new things, ready for discussions and making new projects, love challenges and not afraid to reveal new challenges. Book write blogs on Dev.to and Medium.
+I am Josue Yenga from DRC Lubumbashi, Software Developer, DevOps, passionate about programming and Linux System, Open Source and  always learning new things, ready for discussions and making new projects, love challenges and not afraid to reveal new challenges. Book write blogs on Dev.to and Medium.
 
-### Programming Languages 
-[<img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="20" height="20"/>](https://www.typescriptlang.org/docs/home)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJSXDVf4VhhoQJe1lJkOno9MXtSyaSss8RvQ&usqp=CAU" width="20" height="20"/>](https://www.w3schools.com/js/default.asp)
-[<img src="https://img-0.journaldunet.com/w7wTlL7Jz2N6yX4edTHoXxibY-E=/1280x/smart/ead0a7a3729547aba8dc36a9e81859d8/ccmcms-jdn/11515476.jpg" width="20" height="20"/>](https://docs.python.org/3/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="20" height="20"/>](https://isocpp.org/)
+![Top](https://camo.githubusercontent.com/97641440c26dcfce8c7467134b3f8e9787a7cb5e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b656c76696e2d6d6169267468656d653d6e696768746f776c)   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savalone47&show_icons=true&theme=radical)
 
-### Frameworks and more
-[<img src="https://cms-assets.tutsplus.com/uploads/users/12/posts/15557/preview_image/angular-js.png" width="20" height="20"/>](https://angular.io/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSv45sNepEzFyJrSgMXtl4ZoHA6Uj7wAlW_fw&usqp=CAU" width="20" height="20"/>](https://docs.nestjs.com/)
-[<img src="https://expressjs.com/images/express-facebook-share.png" width="20" height="20"/>](https://expressjs.com/fr/4x/api.html)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="20" height="20"/>](https://laravel.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" width="20" height="20">](https://www.electronjs.org/docs)
-[<img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" width="20" height="20"/>](https://www.docker.com/)
-[<img src="https://images.techhive.com/images/article/2017/02/owasp-100709974-large.jpg" width="20" height="20"/>](https://owasp.org/)
-
-### Learning and more
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="20" height="20"/>](https://fr.reactjs.org/docs/getting-started.html)
-[<img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" width="20" height="20"/>](https://dart.dev/guides)
-[<img scr="https://dustyjuhl.com/wp-content/uploads/2020/01/20200115-AzureDevOps_icons_banner.png"  width="20" height="20"/>](https://azure.microsoft.com/en-us/services/devops/)
-[<img src="https://thumbor.sd-cdn.fr/QhexkptmRWOp_BYLcVID5z-go-I=/1200x630/cdn.sd-cdn.fr/wp-content/uploads/2019/04/AWS-Logo.jpg" width="20" height="20"/>](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
-[<img src="https://javatutorial.net/wp-content/uploads/2017/12/spring-featured-image.png" width="20" height="20" />](https://spring.io/)
-[<img src="https://blog.ippon.tech/content/images/2018/04/jhipster-module-header.png"  width="20" height="20"/>](https://www.jhipster.tech/)
 
 ### How to reach me
-[<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/590px-Twitter_Bird.svg.png" width="20" height="20"/>](https://twitter.com/JosueYenga)
-[<img src="https://www.solutions-numeriques.com/wp-content/uploads/2015/01/linkedin-1424358279.png" width="20" height="20"/>](https://www.linkedin.com/in/josue-yenga/)
-[<img src="https://img-0.journaldunet.com/A7RNFJ1azzxQzUQrMa1i2ZZk_tI=/1280x/smart/94921cf77910478eb14f776a453c4f33/ccmcms-jdn/11552779.jpg" width="20" height="20"/>](https://gitlab.com/savalone)
-[<img src="https://consumer.southpacificislands.travel/wp-content/uploads/2019/08/Medium-Logo.jpg"  width="20" height="20"/>](https://medium.com/@josueyenga)
-[<img src="https://gksander.com/_next/static/images/devto-cdbfbf1b7fe6435f56d2495bb2ee91d4.png" width="20" height="20" />](https://dev.to/josueyenga)
-[<img src="https://xebialabs.com/wp-content/uploads/stack-overflow-for-teams.jpg" width="20" height="20"/>](https://stackoverflow.com/users/9016184/josue-yenga?tab=profile)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" width="20" height="20" />](https://github.com/Savalone47)
+
+:heavy_check_mark: Website: https://savalone47.github.io <br/>
+:heavy_check_mark: tv Youtube: https://www.youtube.com/channel/UCXN-WB4kHr3KlyEMolLioxw <br/>
+:heavy_check_mark: Twitter: https://twitter.com/JosueYenga <br/>
+:heavy_check_mark: LinkedIn: https://www.linkedin.com/in/josue-yenga/ <br/>
+:heavy_check_mark: gitlab: https://gitlab.com/savalone <br/>
+:heavy_check_mark: Medium: https://medium.com/@josueyenga <br/>
+:heavy_check_mark: Dev.to: https://dev.to/josueyenga <br/>
+:heavy_check_mark: StackOverflow: https://stackoverflow.com/users/9016184/josue-yenga?tab=profile <br />
+
+email Email: scottavalone@gmail.com <br/>
+
 
 
