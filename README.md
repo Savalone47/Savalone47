@@ -8,14 +8,18 @@ Software Developer, DevOps, passionate about programming, <br/> Skilled in Data 
 and Algorithms, Linux System, Open Source... <br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savalone47&show_icons=true&theme=radical)  <br/>
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCXN-WB4kHr3KlyEMolLioxw) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/JosueYenga)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/josue-yenga/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Savalone47)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/fagnerpsantos)]( https://medium.com/@josueyenga)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-000?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/fagnerpsantos)](https://dev.to/josueyenga)
 
-**Languages and Tools:**
+## 👯 Communities
+* Microsoft Student Partner 
+* DSC Esisalama - Google Developer Student Clubs
+* GDG Lubumbashi - Google Developer Groups
+* Flutter Lubumbashi  Community
+* ESPACESIS
+
+###Languages and Tools:
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
@@ -43,6 +47,20 @@ and Algorithms, Linux System, Open Source... <br/>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   </p>
+
+### 📖 What am currently learning
+- Flutter Dev  * Progress 41% *
+- AI & Machine Learning  * Progress 13% *
+- Cybersecurity and Ethical Hacking  * Progress 60% *
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Laravel     3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Dart        1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
+
 
 
 
