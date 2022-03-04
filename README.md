@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Josue Yenga, software engineer ,I am passionate about Backend, DevOps technologies and I am also a big fan of Linux. My main skills are Golang, PHP, JavaScript, Python, Docker, Kubernetes and Linux. When I'm not actively coding, I like to be active in technology communities on Twitter. and local club like GDG Lubumbashi, Devcast club which aims to improve our community by building and contributing to open source solutions. I occasionally write on my blog here <a href="https://medium.com/@josueyenga">Josue Yenga</a> <br/>
+I am Josue Yenga, software Developer ,I am passionate about Backend, DevOps technologies and I am also a big fan of Linux. My main skills are Golang, PHP, JavaScript, Python, Docker, Kubernetes and Linux. When I'm not actively coding, I like to be active in technology communities on Twitter. and local club like GDG Lubumbashi, Devcast club which aims to improve our community by building and contributing to open source solutions. I occasionally write on my blog here <a href="https://medium.com/@josueyenga">Josue Yenga</a> <br/>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savalone47&show_icons=true&theme=radical)  <br/>
