@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="user.gif" alter="josue yenga" />
+
 I am Josue Yenga, Software Developer ,passionate about Backend Architecture and Design Pattern. I do like technology communities on Twitter and I am an ambassador of a very large tech community which is DevCube, TechBlogger here: <a href="https://medium.com/@josueyenga">Josue Yenga</a> <br/>
 
 
