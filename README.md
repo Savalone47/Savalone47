@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Josue Yenga, Software Developer ,passionate about Backend Architecture and Design Pattern. I do like technology communities on Twitter and I am an ambassador of a very large tech community which is DevCube, TechBlogger here: <a href="https://medium.com/@josueyenga">Josue Yenga</a> <br/>
+I am Josue Yenga, Software Developer ,passionate about Backend Architecture and Design Pattern. I do like technology communities on Twitter and I am an ambassador of a very large tech community which is <a href="https://github.com/orgs/DevCube-RDC" >DevCube</a>, TechBlogger here: <a href="https://medium.com/@josueyenga">Josue Yenga</a> <br/>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savalone47&show_icons=true&theme=radical)  <br/>
