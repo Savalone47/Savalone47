@@ -3,7 +3,7 @@
 I am Josue Yenga from Lubumbashi, Democratic Republic of Congo, an enthusiastic Software Developer, specializing in digital solutions and always learning new things, but also in maintaining digital advertising on social networks. I like technology communities as https://github.com/DevCube-RDC, and https://g.dev/josue-yenga, i like reading and wrintting articles as TechBlogger here: <a href="https://medium.com/@josueyenga">Josue Yenga</a> <br/>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savalone47&show_icons=true&theme=radical)  <br/>
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/JosueYenga)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/josue-yenga/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/fagnerpsantos)]( https://medium.com/@josueyenga)
