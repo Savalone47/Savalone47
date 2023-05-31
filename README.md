@@ -48,7 +48,8 @@ From Lubumbashi, Democratic Republic of Congo, passionate about programming sinc
   
   <hr/>
 
- ![reame](https://github-readme-stats.vercel.app/api?username=Savalone47&show_icons=true&theme=radical)
+ ![reame](https://github-readme-stats.vercel.app/api?username=Savalone47&show_icons=true&theme=radical) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Savalone47)](https://github.com/Savalone47/github-readme-stats)
+
  
  ![reame](https://github-profile-trophy.vercel.app/?username=Savalone47&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
  
