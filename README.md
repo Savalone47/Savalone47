@@ -4,9 +4,13 @@
 
 <hr/>
 
-Software Engineer Specializing in Data Structures, Algorithms and Open Source, good at problem solving. Specialize in Digital Solutions while Helping Businesses Thrive online. Providing customer Focused Solutions. | Ex-GDSC Lead at ESISALAMA & <a href="https://g.dev/josue-yenga"> Google Developer</a> TweetTech🚀| TechBlogger. Providing resources and lead workshops for the local <a href="https://github.com/DevCube-RDC"> Developer Community</a>. <br/>
+ Data Analyst with a passion for transforming raw data into actionable strategic insights. My expertise ranges from data modeling to advanced visualization and predictive analysis.| Ex-GDSC Lead at ESISALAMA & <a href="https://g.dev/josue-yenga"> Google Developer</a> TweetTech🚀| TechBlogger. Providing resources and lead workshops for the local <a href="https://github.com/DevCube-RDC"> Developer Community</a>. <br/>
 
-From Lubumbashi, Democratic Republic of Congo, passionate about programming since forever, I use programming to solve given problems according to the needs of companies, I like learning and sharing.
+I am fully conversant with business intelligence tools such as Power BI and Tableau, with which I have designed and implemented interactive dashboards and detailed reports, enabling decision-makers to track key performance and identify trends. My Excel know-how includes handling large datasets, using complex functions and creating macros to automate repetitive task.
+
+My experience in Python is a major asset for data analysis. I have developed scripts for data extraction, transformation and loading (ETL), statistical analysis and the creation of predictive models. I'm particularly comfortable using libraries such as Pandas, NumPy, Scikit-learn and Matplotlib.
+
+From Lubumbashi, DRC, passionate about solving problem through programming since 2018 - now, I like learning and sharing.
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/JosueYenga)
